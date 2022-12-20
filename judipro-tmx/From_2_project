@@ -1,0 +1,13 @@
+total 19
+drwx------ 2 u0_a252 u0_a252 3452 Dec 16 09:16 .
+drwx------ 6 u0_a252 u0_a252 3452 Dec 16 09:22 ..
+-rwxr----- 1 u0_a252 u0_a252   15 Dec 16 09:25 From_1_project
+-rw------- 1 u0_a252 u0_a252    0 Dec 16 09:29 From_2_project
+-rw------- 1 u0_a252 u0_a252    0 Dec 15 09:44 From_3_project
+-rw------- 1 u0_a252 u0_a252    0 Dec 15 09:44 From_4_project
+-rw------- 1 u0_a252 u0_a252    0 Dec 15 09:44 From_5_project
+-rw------- 1 u0_a252 u0_a252    0 Dec 15 09:44 From_6_project
+-rw------- 1 u0_a252 u0_a252    0 Dec  6 04:55 fromt--back
+-rw------- 1 u0_a252 u0_a252    0 Dec  6 05:01 front--back
+-rwx------ 1 u0_a252 u0_a252   33 Dec 16 09:01 project_1.sh
+-rw------- 1 u0_a252 u0_a252  716 Dec 16 09:11 redirect-1
