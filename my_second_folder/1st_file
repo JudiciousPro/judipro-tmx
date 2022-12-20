@@ -1,0 +1,26 @@
+total 15
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file8
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file7
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file6
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file5
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file4
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file3
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file2
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:12 Grid_file1
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:14 5_flex
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:14 4_flex
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:14 3_flex
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:14 2_flex
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:14 1_flex
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 3rd_file
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 2nd_file
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 9th_file.c
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 8th_file.js
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 7th_file.html
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 6th_file.css
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:18 5th_file.sh
+-rw------- 1 u0_a252 u0_a252   16 Dec 19 07:19 4th_file
+-rwxr-xr-x 1 u0_a252 u0_a252   75 Dec 19 07:24 0_file.bash
+drwx------ 6 u0_a252 u0_a252 3452 Dec 19 07:24 ..
+drwx------ 2 u0_a252 u0_a252 3452 Dec 19 07:24 .
+-rw------- 1 u0_a252 u0_a252    0 Dec 19 07:27 1st_file
